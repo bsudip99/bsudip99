@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning NOdeJS, WordPress<br>💬 Ask me about Laravel, SQL, Node JS
+🌱 I’m currently learning NOdeJS <br>💬 Ask me about Laravel, SQL, Node JS
 
 
 ## 🌐 Socials:
